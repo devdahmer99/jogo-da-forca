@@ -1,0 +1,3 @@
+/home/dahmer/Área de Trabalho/jogo-da-forca/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/dahmer/Área de Trabalho/jogo-da-forca/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/dahmer/Área de Trabalho/jogo-da-forca/cmake-build-debug/CMakeFiles/jogo_da_forca.dir
